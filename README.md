@@ -1,1 +1,1 @@
-# Paralela
+# Programa Multihilos en Python
